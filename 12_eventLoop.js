@@ -7,4 +7,4 @@ fetch("https://www.youtube.com/watch?v=2WJL19wDH68&list=PLlasXeu85E9cQ32gLCvAvr9
     console.log("API fetched");
     
 })
-console.log("end")
+console.log("end");
